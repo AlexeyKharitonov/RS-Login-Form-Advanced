@@ -1,0 +1,13 @@
+.rangeInput {
+  background: #4b5563;
+  height: 8px;
+  border-radius: 4px;
+}
+
+.rangeInput::-webkit-slider-thumb {
+  width: 50px !important;
+  height: 50px !important;
+  background: #10b981 !important;
+  cursor: pointer;
+  border-radius: 50% !important;
+}
